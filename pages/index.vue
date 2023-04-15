@@ -1,0 +1,8 @@
+<template>
+  <div>
+    <h1>Welcome to the Index page</h1>
+    <form>
+      
+    </form>
+  </div>
+</template>
