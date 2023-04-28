@@ -1,7 +1,12 @@
 <template>
-  <div>
-    <h1 class="text-4xl font-bold">
-      Hello world!
-    </h1>
+  <div class="flex h-screen items-stretch">
+    <!-- Chat column -->
+    <div class="basis-96 shadow-lg p-8 box-border flex">
+      <CreatorChat/>
+    </div>
+    <!-- Preview column -->
+    <div class="flex-auto">
+
+    </div>
   </div>
 </template>
